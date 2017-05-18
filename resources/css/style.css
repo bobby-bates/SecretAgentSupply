@@ -1,4 +1,42 @@
 html {
   background-color: black;
   color: white;
+  font-family: Helvetica;
+  font-size: 18px;
+}
+.container {
+  width: 960px;
+}
+.header {
+
+}
+.title-background {
+
+}
+.title-box {
+
+}
+.menu {
+
+}
+.nav {
+
+}
+.main {
+
+}
+.products {
+
+}
+.product-box {
+
+}
+.loc-hrs {
+
+}
+.loc-hrs-box {
+
+}
+.footer {
+  
 }
