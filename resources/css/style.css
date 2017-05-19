@@ -9,8 +9,9 @@ html {
 }
 .container {
   width: 960px;
+}
+.center {
   margin: 0 auto;
-
 }
 
 /* Header */
@@ -52,10 +53,25 @@ html {
   display: flex;
 }
 .title-box {
-
+  display: flex;
+  background-color: black;
+  width: 26rem;
+  height: 9rem;
+  text-align: left;
+  margin-top: 9rem;
 }
 .title-text {
-  
+  align-items: flex-start;
+  margin-left: 3rem;
+  margin-top: 2rem;
+}
+.title-text h3 {
+  font-size: 1rem;
+  font-weight: bold;
+}
+.title-text h2 {
+  font-size: 2rem;
+  font-weight: bold;
 }
 
 /* Menu */
