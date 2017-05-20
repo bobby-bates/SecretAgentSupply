@@ -1,0 +1,77 @@
+[33mcommit 9739f2be4fd3207aac4116825fa2043723a82cee[m
+Author: goodcleanfun <robertfbatesjr@gmail.com>
+Date:   Fri May 19 21:28:31 2017 -0400
+
+    Complete nav CSS
+
+[33mcommit b833bf2ad415a42fdd9f9c6b196871f01aedc5b0[m
+Author: goodcleanfun <robertfbatesjr@gmail.com>
+Date:   Fri May 19 21:07:11 2017 -0400
+
+    Finish title-background CSS
+
+[33mcommit b221d95984be9aec544d129b467fe3a9123834a7[m
+Author: goodcleanfun <robertfbatesjr@gmail.com>
+Date:   Fri May 19 20:17:27 2017 -0400
+
+    Correct header CSS
+
+[33mcommit 2fa57ea08077ffd8a71cf97d097da2085eac941a[m
+Author: goodcleanfun <robertfbatesjr@gmail.com>
+Date:   Fri May 19 16:51:45 2017 -0400
+
+    Change header and footer tags to semantic tags
+
+[33mcommit 51f63cb7b48cae2af22d38404a909d11d8ace525[m
+Author: goodcleanfun <robertfbatesjr@gmail.com>
+Date:   Thu May 18 21:27:10 2017 -0400
+
+    Add title CSS
+
+[33mcommit 3ab22496341cda7ed0adff6a207764c8136cdb36[m
+Author: goodcleanfun <robertfbatesjr@gmail.com>
+Date:   Thu May 18 20:31:01 2017 -0400
+
+    Add CSS for header and part of title
+
+[33mcommit f3c76c239f57bd4dabc95b7c0669b0f0ef8c73e4[m
+Author: goodcleanfun <robertfbatesjr@gmail.com>
+Date:   Thu May 18 19:27:01 2017 -0400
+
+    Write CSS framework
+
+[33mcommit f8858a857588fb0c54bbeb3f6ef2bc2d6675a4c0[m
+Author: goodcleanfun <robertfbatesjr@gmail.com>
+Date:   Thu May 18 19:03:39 2017 -0400
+
+    Finish HTML
+
+[33mcommit bb972e8dd9c0ac067ef0dff13007042f812f1fe5[m
+Author: goodcleanfun <robertfbatesjr@gmail.com>
+Date:   Thu May 18 18:41:37 2017 -0400
+
+    Commit after power outage
+
+[33mcommit 57eb4faad35f33f21d3d8ba4ae5aafba4001cc1a[m
+Author: goodcleanfun <robertfbatesjr@gmail.com>
+Date:   Thu May 18 17:13:51 2017 -0400
+
+    Add images now with actual added images
+
+[33mcommit 21c9aec63557bb2bd6ee6d353a12909e2f66a140[m
+Author: goodcleanfun <robertfbatesjr@gmail.com>
+Date:   Thu May 18 17:09:05 2017 -0400
+
+    Add images to images folder, link reset.css and style.css
+
+[33mcommit 0aa86c7604f2ad74dc4ac8c2fa30c0d8eed1a229[m
+Author: goodcleanfun <robertfbatesjr@gmail.com>
+Date:   Thu May 18 17:03:33 2017 -0400
+
+    Add HTML boilerplate, add reset.css with boilerplate
+
+[33mcommit 058510df5f498e9a738203b5c08bf7503b36369e[m
+Author: goodcleanfun <robertfbatesjr@gmail.com>
+Date:   Thu May 18 16:55:14 2017 -0400
+
+    Initial commit
