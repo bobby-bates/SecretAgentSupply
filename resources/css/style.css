@@ -1,12 +1,12 @@
 html {
   background-color: white;
-  font-family: Helvetica;
   font-size: 18px;
   text-align: center;
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
 }
 body {
+  font-family: Helvetica;
   line-height: 1.4em;
 }
 .container {
@@ -37,6 +37,11 @@ header img {
 header h2 {
   font-size: 1rem;
 }
+@media only screen and (max-width: 1024px) {
+  header h2 {
+    font-size: 0.9rem;
+  }
+}
 
 /* Title */
 
@@ -66,6 +71,20 @@ header h2 {
   font-weight: bold;
   line-height: 2rem;
 }
+@media only screen and (max-width: 1024px) {
+  .title-background {
+    height: 22rem;
+  }
+  .headline {
+    width: 17rem;
+  }
+  .headline h4 {
+    font-size: 0.9rem;
+  }
+  .headline h1 {
+    font-size: 1.8rem;
+  }
+}
 
 /* Menu */
 
@@ -78,6 +97,9 @@ nav {
   display: flex;
   justify-content: space-between;
   font-weight: bold;
+}
+@media only screen and (max-width: 1024px) {
+
 }
 
 /* Products */
@@ -126,6 +148,9 @@ nav {
 .bottom {
   margin-bottom: 4rem;
 }
+@media only screen and (max-width: 1024px) {
+
+}
 
 /* Footer */
 
@@ -140,4 +165,7 @@ footer .container {
   text-align: left;
   display: flex;
   align-items: center;
+}
+@media only screen and (max-width: 1024px) {
+
 }
