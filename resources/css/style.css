@@ -88,18 +88,35 @@ header h2 {
 
 /* Menu */
 
-.menu-background {
+.menu-full {
   background-color: firebrick;
 }
-nav {
+.menu-full nav {
   color: white;
   padding: 0.75rem 0;
   display: flex;
   justify-content: space-between;
   font-weight: bold;
 }
+.menu-short {
+  display: none;
+}
 @media only screen and (max-width: 1024px) {
-
+  .menu-full {
+    display: none;
+  }
+  .menu-short {
+    display: block;
+    background-color: firebrick;
+  }
+  .menu-short nav {
+    color: white;
+    padding: 0.5rem 0;
+    display: flex;
+    justify-content: center;
+    font-size: 0.9rem;
+    font-weight: bold;
+  }
 }
 
 /* Products */
@@ -109,7 +126,9 @@ nav {
   justify-content: space-between;
   margin-top: 3rem;
 }
-.product {
+.pen,
+.watch,
+.glasses {
   width: 30%;
 }
 .product-image {
@@ -149,7 +168,13 @@ nav {
   margin-bottom: 4rem;
 }
 @media only screen and (max-width: 1024px) {
-
+  .glasses {
+    display: none;
+  }
+  .pen,
+  .watch {
+    width: 47%;
+  }
 }
 
 /* Footer */
@@ -167,5 +192,7 @@ footer .container {
   align-items: center;
 }
 @media only screen and (max-width: 1024px) {
-
+  footer {
+    font-size: 0.9rem;
+  }
 }
