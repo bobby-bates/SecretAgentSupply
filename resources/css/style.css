@@ -69,11 +69,15 @@ header h2 {
 
 /* Menu */
 
-.menu {
-
+.menu-background {
+  background-color: firebrick;
 }
 nav {
-
+  color: white;
+  padding: 0.75rem 0;
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
 }
 
 /* Main */
