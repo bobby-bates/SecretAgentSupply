@@ -108,10 +108,23 @@ nav {
   font-weight: bold;
 }
 .loc-hrs {
-
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
 }
 .loc-hrs-box {
-
+  display: flex;
+  flex-direction: column;
+  width: 35%;
+  text-align: left;
+}
+.top {
+  color: white;
+  background-color: black;
+  padding: 1rem 0 1rem 2rem;
+}
+.bottom {
+  margin-bottom: 4rem;
 }
 
 /* Footer */
